@@ -5,3 +5,8 @@ The only instruction is that the compiler #IS_FULL constant should be defined ad
 
 Also the code is quite trimmed by tool I'm using for this, nothing to do:) That tool also will be improved further.
 At least no so much verbose as original...
+
+
+LICENSING: for now unspecified, everything is forbidden unless it is permitted explicitly :)
+That's because I have no reasons to waste time licensing the code I published.
+Still, you can contact me if needed.
