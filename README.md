@@ -10,3 +10,5 @@ At least no so much verbose as original...
 LICENSING: for now unspecified, everything is forbidden unless it is permitted explicitly :)
 That's because I have no reasons to waste time licensing the code I published.
 Still, you can contact me if needed.
+
+Too, I know code is horrible here :) It was never much better in this quick tool (even though recently I finally reviewed a bit some parts, just don't posting here every such update). Still, ask if needed.
