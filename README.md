@@ -11,4 +11,6 @@ LICENSING: for now unspecified, everything is forbidden unless it is permitted e
 That's because I have no reasons to waste time licensing the code I published.
 Still, you can contact me if needed.
 
+// not a GPL-terrorism or whatever, currently I really have no time (and not only) for such things, as well as publishing more sources
+
 Too, I know code structure is horrible here :) It was never much better in this quick tool (even though recently I finally reviewed a bit some parts, just don't posting here every such update). Still, ask if needed.
